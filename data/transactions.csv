@@ -1,0 +1,6 @@
+transaction_id,customer_id,timestamp,type,amount_cad
+T001,C001,2026-11-01T09:00:00,deposit,500
+T002,C001,2026-11-02T10:00:00,deposit,4500
+T003,C001,2026-11-02T11:00:00,crypto_withdrawal,4000
+T004,C002,2026-11-01T09:00:00,deposit,2500
+T005,C002,2026-11-03T09:00:00,deposit,2700

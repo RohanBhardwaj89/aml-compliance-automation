@@ -1,0 +1,22 @@
+[
+  {
+    "case_id": "CASE-001",
+    "status": "Checks passed",
+    "issues": []
+  },
+  {
+    "case_id": "CASE-002",
+    "status": "Review required",
+    "issues": [
+      "Amount differs from source record"
+    ]
+  },
+  {
+    "case_id": "CASE-003",
+    "status": "Review required",
+    "issues": [
+      "Missing transaction_date",
+      "Invalid or unavailable transaction date"
+    ]
+  }
+]
